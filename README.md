@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Balaji 👋
 
-<!--
-**Balaji742/Balaji742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer
 
-Here are some ideas to get you started:
+🚀 Passionate about building web applications and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- React
+- Git & GitHub
+
+## Featured Projects
+
+### 🛒 NovaCart
+E-commerce application built with React.
+
+🔗 Live Demo: https://your-novacart-url.vercel.app
+
+### 🏠 Villa Website
+Responsive real-estate website built with HTML, CSS and JavaScript.
+
+### 🚌 Smart City Bus Management System
+Role-based web application for public transport management.
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/balaji-gundabatti
+
+## Current Goals
+
+- Master Full-Stack Development
+- Contribute to Open Source
+- Secure a Software Developer Role
